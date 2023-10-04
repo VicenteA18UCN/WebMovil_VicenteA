@@ -1,0 +1,37 @@
+{
+  "employees": [
+    {
+      "id": 2,
+      "first_name": "Steve",
+      "last_name": "Jobs",
+      "email": "ola@cola.cl"
+    },
+    {
+      "id": 3,
+      "first_name": "Bill",
+      "last_name": "Gates",
+      "email": "cosa@sadasd.com"
+    },
+    {
+      "id": 4,
+      "first_name": "Larry",
+      "last_name": "Page",
+      "email": "casadsd@coli.cl"
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "first_name": "Paul",
+      "last_name": "Cordova",
+      "email": "pcordova@ucn.cl",
+      "id": 8
+    }
+  ]
+}
